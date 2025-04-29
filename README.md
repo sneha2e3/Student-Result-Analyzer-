@@ -1,4 +1,4 @@
-📌 Task Objective
+📌  Task Objective
 A data analysis tool built using Pandas and Matplotlib to analyze student academic performance. The project reads structured student data, calculates performance statistics, and generates visual insights to support decision-making.
 
 🛠️ Technologies Used
