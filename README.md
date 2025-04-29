@@ -10,8 +10,11 @@ Matplotlib
 
 🚀 How to Run the Project
 git clone https://github.com/sneha2e3/Student-Result-Analyzer-/
+
 cd Student-Result-Analyzer-
+
 pip install pandas matplotlib
+
 python analyzer.py
 
 ✅ Features
